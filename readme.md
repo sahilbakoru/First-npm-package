@@ -14,7 +14,6 @@ This library is created in an attempt to provide a  lightweight, simple and cust
 It try to solve the problem of having to install very heavy and big  libraries for something as simple as a dropdown, as react native does not have any by default. this library is build by deafult react native tools so it's not dependent on other libraries.
 
 
-having to install very heavy and big  libraries for something as simple as a dropdown, as react native does not have any by default. this library is build by deafult react native tools so it's not dependent on other libraries.
 
  It is so simple you can go to your project `node_modules/react-native-option-dropdown/index.js` and edit the code yourself and cusomize it even more. OR copy the code from there and use it anywhere as a component, no need to installing anything else. 🎉
 
