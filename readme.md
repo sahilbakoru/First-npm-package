@@ -107,12 +107,12 @@ Prop                | Type     | Optional | Default   | Description
 ------------------- | -------- | -------- | --------- | -----------
 `data`          | Array of objects . (`id:` Key must be there in every object)   as shown above  | No      | false     | Data for the dropdown options.
 `onSelect`          | Function     | No      | false     | function that will run after selecting the option from dropdown.
-`value`          | String     | No      | false     | It will take the value of state to show after selecting a option (as shown in the example above).
 `transparent`          | Bool     | No      | false     |It  will change the dropdown backround, will take `true` & `false` .
+`value`          | String     | No      | false     | It will take the value of state to show after selecting a option (as shown in the example above).
 `alignList`          | String     | No      | false     | It is for postion of dropdown list, will take tree options as string  `center` , `flex-end` & `flex-start`.
 `fontSize`          | Number     | No      | false     | It will change the font size.
-`defaultText`          | String     | No      | false     | It is default text when nothing is selected.
 `animationType`          | String     | No      | false     | The animationType prop controls how the modal animates. It will take three values  `none` ,  `slide` & `fade`  as String.
+`defaultText`          | String     | No      | false     | It is default text when nothing is selected.
 `dropDownStyle`          | Object     | No      | false     | This  is for dropdown style. It will take any default  React Native style .
 
 #### Suggestions and feedback are welcome at  sahilbakoru1999@gmail.com .
