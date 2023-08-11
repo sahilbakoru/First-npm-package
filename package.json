@@ -1,6 +1,6 @@
 {
   "name": "react-native-option-dropdown",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "react-native-option-dropdown is light weight dropdown for simple react native apps.",
   "main": "index.js",
   "scripts": {
@@ -12,11 +12,15 @@
     "picker",
     "dropdown",
     "select",
-    "options"
+    "options",
+    "react native dropdown",
+    "react native picker ",
+    "react native option dropdown",
+    "react native select option"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sahilbakoru/First-npm-package.git"
+    "url": "https://github.com/sahilbakoru/react-native-option-dropdown.git"
   },
   "author": "sahilbakoru",
   "license": "ISC",
